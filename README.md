@@ -2,6 +2,10 @@
 
 Color Flipper is a simple web application that randomly changes the background color of a container div using hexadecimal color codes.
 
+## Demo
+
+You can try out the app live [here](https://color-flipper-steel.vercel.app/)
+
 ## Features
 
 - Generates random hexadecimal color codes.
